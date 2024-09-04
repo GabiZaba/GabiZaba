@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabiZaba
 - 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning html and css
 - 📫 How to reach me gabrielaugustozabala@gmail.com
 
 <!---
